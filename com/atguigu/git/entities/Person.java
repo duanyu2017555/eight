@@ -30,4 +30,8 @@ public class Person {
 		System.out.println("walk...");
 	}
 
+	public void run(){
+		System.out.println("run...");
+	}
+
 }
