@@ -26,4 +26,8 @@ public class Person {
 		System.out.println("pull...");
 	}
 
+	public void walk(){
+		System.out.println("walk...");
+	}
+
 }
