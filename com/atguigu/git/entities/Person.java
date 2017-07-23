@@ -22,4 +22,8 @@ public class Person {
 		System.out.println("sing...");
 	}
 
+	public void walk(){
+		System.out.println("walk...");
+	}
+
 }
