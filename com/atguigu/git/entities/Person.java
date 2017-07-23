@@ -18,4 +18,8 @@ public class Person {
 		System.out.println("eat ...");
 	}
 
+	public void sing(){
+		System.out.println("sing...");
+	}
+
 }
